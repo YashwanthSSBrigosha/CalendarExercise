@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Haibin Calendar Exercise</string>
+    <string name="backward"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+</resources>
